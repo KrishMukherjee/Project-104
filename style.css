@@ -1,0 +1,26 @@
+body {
+
+    color: white;
+    background: pink;
+
+}
+#camera {
+
+    border: 2px dashed black;
+    width: 350px;
+    height:300px;
+
+}
+
+.name_of_family_members {
+
+    color: red;
+
+}
+
+h1 {
+
+
+    color: purple;
+
+}
